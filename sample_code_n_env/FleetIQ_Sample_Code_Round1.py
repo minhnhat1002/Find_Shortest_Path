@@ -12,7 +12,7 @@ serverHost = "localhost"  # For testing you can keep as localhost since Server w
 ####################################
 
 # Team Information Definition Area #
-userName = "Team_BTC" # Put your team name here
+userName = "XinChao" # Put your team name here
 password = "123456789" # Any password you want. This is to prevent other team interfering with your cars.
 ####################################
 
